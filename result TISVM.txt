@@ -1,0 +1,119 @@
+SVM with translational-invariant kernel (degree=3.000) 
+Execution Time: 225.080s 
+Training: 
+accuracy: 50.926% 
+---------------------------------------------
+Validation: 
+accuracy: 53.846% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.798% 
+---------------------------------------------
+Testing: 
+accuracy: 40.000% 
+---------------------------------------------
+
+SVM with translational-invariant kernel (degree=3.000) 
+Execution Time: 225.330s 
+Training: 
+accuracy: 50.926% 
+---------------------------------------------
+Validation: 
+accuracy: 53.846% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.798% 
+---------------------------------------------
+Testing: 
+accuracy: 40.000% 
+---------------------------------------------
+
+SVM with translational-invariant kernel (degree=4.000) 
+Execution Time: 225.247s 
+Training: 
+accuracy: 51.852% 
+---------------------------------------------
+Validation: 
+accuracy: 53.846% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 51.595% 
+---------------------------------------------
+Testing: 
+accuracy: 40.000% 
+---------------------------------------------
+
+SVM with translational-invariant kernel (degree=5.000) 
+Execution Time: 225.323s 
+Training: 
+accuracy: 54.630% 
+---------------------------------------------
+Validation: 
+accuracy: 30.769% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 51.538% 
+---------------------------------------------
+Testing: 
+accuracy: 50.000% 
+---------------------------------------------
+
+SVM with translational-invariant kernel (degree=6.000) 
+Execution Time: 225.425s 
+Training: 
+accuracy: 61.111% 
+---------------------------------------------
+Validation: 
+accuracy: 38.462% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 51.510% 
+---------------------------------------------
+Testing: 
+accuracy: 50.000% 
+---------------------------------------------
+
+SVM with translational-invariant kernel (degree=2.000) 
+Execution Time: 381.839s 
+Training: 
+accuracy: 55.435% 
+---------------------------------------------
+Validation: 
+accuracy: 37.500% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 49.066% 
+---------------------------------------------
+
+SVM with translational-invariant kernel (degree=3.000) 
+Execution Time: 382.231s 
+Training: 
+accuracy: 55.435% 
+---------------------------------------------
+Validation: 
+accuracy: 37.500% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 48.297% 
+---------------------------------------------
+
+SVM with translational-invariant kernel (degree=4.000) 
+Execution Time: 379.999s 
+Training: 
+accuracy: 56.522% 
+---------------------------------------------
+Validation: 
+accuracy: 37.500% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.659% 
+---------------------------------------------
+

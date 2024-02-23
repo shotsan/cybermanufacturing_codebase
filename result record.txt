@@ -1,0 +1,14 @@
+
+SVM with locality and rotational-invariant kernel (degree=8) 
+time to run this part: 24156.677s 
+Training: 
+accuracy: 51.087% 
+---------------------------------------------
+Validation: 
+accuracy: 47.500% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 48.485% 
+---------------------------------------------
+

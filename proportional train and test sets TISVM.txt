@@ -1,0 +1,377 @@
+proportional train and test sets (degree=2.000) 
+Execution Time: 378.237s 
+Training: 
+accuracy: 63.636% 
+---------------------------------------------
+Validation: 
+accuracy: 63.636% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.582% 
+---------------------------------------------
+
+proportional train and test sets (degree=2.000) 
+Execution Time: 381.428s 
+Training: 
+accuracy: 67.045% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.582% 
+---------------------------------------------
+
+proportional train and test sets (degree=2.000) 
+Execution Time: 171.284s 
+Training: 
+accuracy: 63.636% 
+---------------------------------------------
+Validation: 
+accuracy: 63.636% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 49.242% 
+---------------------------------------------
+
+proportional train and test sets (degree=2.000) 
+Execution Time: 178.248s 
+Training: 
+accuracy: 67.045% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 49.242% 
+---------------------------------------------
+
+proportional train and test sets (degree=2.000) 
+Execution Time: 173.732s 
+Training: 
+accuracy: 65.909% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 49.242% 
+---------------------------------------------
+
+proportional train and test sets (degree=3.000) 
+Execution Time: 165.792s 
+Training: 
+accuracy: 63.636% 
+---------------------------------------------
+Validation: 
+accuracy: 63.636% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.758% 
+---------------------------------------------
+
+proportional train and test sets (degree=3.000) 
+Execution Time: 165.817s 
+Training: 
+accuracy: 67.045% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.758% 
+---------------------------------------------
+
+proportional train and test sets (degree=3.000) 
+Execution Time: 165.721s 
+Training: 
+accuracy: 67.045% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.758% 
+---------------------------------------------
+
+proportional train and test sets (degree=4.000) 
+Execution Time: 182.851s 
+Training: 
+accuracy: 63.636% 
+---------------------------------------------
+Validation: 
+accuracy: 63.636% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 56.818% 
+---------------------------------------------
+
+proportional train and test sets (degree=4.000) 
+Execution Time: 165.992s 
+Training: 
+accuracy: 67.045% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 56.818% 
+---------------------------------------------
+
+proportional train and test sets (degree=4.000) 
+Execution Time: 164.858s 
+Training: 
+accuracy: 68.182% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 56.818% 
+---------------------------------------------
+
+proportional train and test sets (degree=5.000) 
+Execution Time: 165.440s 
+Training: 
+accuracy: 63.636% 
+---------------------------------------------
+Validation: 
+accuracy: 63.636% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 56.061% 
+---------------------------------------------
+
+proportional train and test sets (degree=5.000) 
+Execution Time: 165.852s 
+Training: 
+accuracy: 65.909% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 56.061% 
+---------------------------------------------
+
+proportional train and test sets (degree=5.000) 
+Execution Time: 165.992s 
+Training: 
+accuracy: 70.455% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 56.061% 
+---------------------------------------------
+
+proportional train and test sets (degree=6.000) 
+Execution Time: 165.855s 
+Training: 
+accuracy: 68.182% 
+---------------------------------------------
+Validation: 
+accuracy: 70.455% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 57.576% 
+---------------------------------------------
+
+proportional train and test sets (degree=6.000) 
+Execution Time: 165.944s 
+Training: 
+accuracy: 68.182% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 57.576% 
+---------------------------------------------
+
+proportional train and test sets (degree=6.000) 
+Execution Time: 165.766s 
+Training: 
+accuracy: 71.591% 
+---------------------------------------------
+Validation: 
+accuracy: 54.545% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 57.576% 
+---------------------------------------------
+
+proportional train and test sets (degree=7.000) 
+Execution Time: 166.156s 
+Training: 
+accuracy: 70.455% 
+---------------------------------------------
+Validation: 
+accuracy: 68.182% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 57.576% 
+---------------------------------------------
+
+proportional train and test sets (degree=7.000) 
+Execution Time: 165.849s 
+Training: 
+accuracy: 68.182% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 57.576% 
+---------------------------------------------
+
+proportional train and test sets (degree=7.000) 
+Execution Time: 176.063s 
+Training: 
+accuracy: 73.864% 
+---------------------------------------------
+Validation: 
+accuracy: 54.545% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 57.576% 
+---------------------------------------------
+
+proportional train and test sets (degree=8.000) 
+Execution Time: 166.135s 
+Training: 
+accuracy: 72.727% 
+---------------------------------------------
+Validation: 
+accuracy: 68.182% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 58.333% 
+---------------------------------------------
+
+proportional train and test sets (degree=8.000) 
+Execution Time: 178.288s 
+Training: 
+accuracy: 70.455% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 58.333% 
+---------------------------------------------
+
+proportional train and test sets (degree=8.000) 
+Execution Time: 165.782s 
+Training: 
+accuracy: 76.136% 
+---------------------------------------------
+Validation: 
+accuracy: 54.545% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 58.333% 
+---------------------------------------------
+
+proportional train and test sets (degree=9.000) 
+Execution Time: 165.348s 
+Training: 
+accuracy: 73.864% 
+---------------------------------------------
+Validation: 
+accuracy: 68.182% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 59.091% 
+---------------------------------------------
+
+proportional train and test sets (degree=9.000) 
+Execution Time: 166.254s 
+Training: 
+accuracy: 73.864% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 59.091% 
+---------------------------------------------
+
+proportional train and test sets (degree=9.000) 
+Execution Time: 165.708s 
+Training: 
+accuracy: 78.409% 
+---------------------------------------------
+Validation: 
+accuracy: 56.818% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 59.091% 
+---------------------------------------------
+
+proportional train and test sets (degree=10.000) 
+Execution Time: 166.122s 
+Training: 
+accuracy: 76.136% 
+---------------------------------------------
+Validation: 
+accuracy: 65.909% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 59.091% 
+---------------------------------------------
+
+proportional train and test sets (degree=10.000) 
+Execution Time: 177.074s 
+Training: 
+accuracy: 76.136% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 59.091% 
+---------------------------------------------
+
+proportional train and test sets (degree=10.000) 
+Execution Time: 166.589s 
+Training: 
+accuracy: 80.682% 
+---------------------------------------------
+Validation: 
+accuracy: 59.091% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 59.091% 
+---------------------------------------------
+
