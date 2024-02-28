@@ -1,603 +1,57 @@
-SVM with polynomial kernel (degree=2.000) 
-Execution Time: 4.756s 
-Training: 
-accuracy: 63.636% 
----------------------------------------------
-Validation: 
-accuracy: 63.636% 
----------------------------------------------
-
-cross validation: 
-accuracy: 53.903% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=2.000) 
-Execution Time: 4.762s 
-Training: 
-accuracy: 67.045% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 53.903% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=2.000) 
-Execution Time: 4.854s 
-Training: 
-accuracy: 67.045% 
----------------------------------------------
-Validation: 
-accuracy: 52.273% 
----------------------------------------------
-
-cross validation: 
-accuracy: 53.903% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=3.000) 
-Execution Time: 4.760s 
-Training: 
-accuracy: 63.636% 
----------------------------------------------
-Validation: 
-accuracy: 63.636% 
----------------------------------------------
-
-cross validation: 
-accuracy: 56.866% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=3.000) 
-Execution Time: 4.683s 
-Training: 
-accuracy: 65.909% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 56.866% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=3.000) 
-Execution Time: 4.769s 
-Training: 
-accuracy: 67.045% 
----------------------------------------------
-Validation: 
-accuracy: 52.273% 
----------------------------------------------
-
-cross validation: 
-accuracy: 56.866% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=4.000) 
-Execution Time: 4.721s 
-Training: 
-accuracy: 63.636% 
----------------------------------------------
-Validation: 
-accuracy: 63.636% 
----------------------------------------------
-
-cross validation: 
-accuracy: 58.348% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=4.000) 
-Execution Time: 4.731s 
-Training: 
-accuracy: 65.909% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 58.348% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=4.000) 
-Execution Time: 4.830s 
-Training: 
-accuracy: 68.182% 
----------------------------------------------
-Validation: 
-accuracy: 52.273% 
----------------------------------------------
-
-cross validation: 
-accuracy: 58.348% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=5.000) 
-Execution Time: 5.382s 
-Training: 
-accuracy: 63.636% 
----------------------------------------------
-Validation: 
-accuracy: 65.909% 
----------------------------------------------
-
-cross validation: 
-accuracy: 57.550% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=5.000) 
-Execution Time: 4.704s 
-Training: 
-accuracy: 69.318% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 57.550% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=5.000) 
-Execution Time: 4.734s 
-Training: 
-accuracy: 71.591% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 57.550% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=6.000) 
-Execution Time: 4.704s 
-Training: 
-accuracy: 68.182% 
----------------------------------------------
-Validation: 
-accuracy: 65.909% 
----------------------------------------------
-
-cross validation: 
-accuracy: 59.088% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=6.000) 
-Execution Time: 4.759s 
-Training: 
-accuracy: 69.318% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 59.088% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=6.000) 
-Execution Time: 4.687s 
-Training: 
-accuracy: 72.727% 
----------------------------------------------
-Validation: 
-accuracy: 52.273% 
----------------------------------------------
-
-cross validation: 
-accuracy: 59.088% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=7.000) 
-Execution Time: 4.653s 
-Training: 
-accuracy: 70.455% 
----------------------------------------------
-Validation: 
-accuracy: 63.636% 
----------------------------------------------
-
-cross validation: 
-accuracy: 58.291% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=7.000) 
-Execution Time: 4.620s 
-Training: 
-accuracy: 69.318% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 58.291% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=7.000) 
-Execution Time: 4.604s 
-Training: 
-accuracy: 75.000% 
----------------------------------------------
-Validation: 
-accuracy: 54.545% 
----------------------------------------------
-
-cross validation: 
-accuracy: 58.291% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=8.000) 
-Execution Time: 4.666s 
-Training: 
-accuracy: 71.591% 
----------------------------------------------
-Validation: 
-accuracy: 65.909% 
----------------------------------------------
-
-cross validation: 
-accuracy: 59.060% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=8.000) 
-Execution Time: 4.646s 
-Training: 
-accuracy: 70.455% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 59.060% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=8.000) 
-Execution Time: 4.738s 
-Training: 
-accuracy: 77.273% 
----------------------------------------------
-Validation: 
-accuracy: 56.818% 
----------------------------------------------
-
-cross validation: 
-accuracy: 59.060% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=9.000) 
-Execution Time: 4.651s 
-Training: 
-accuracy: 73.864% 
----------------------------------------------
-Validation: 
-accuracy: 63.636% 
----------------------------------------------
-
-cross validation: 
-accuracy: 58.291% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=9.000) 
-Execution Time: 4.559s 
-Training: 
-accuracy: 75.000% 
----------------------------------------------
-Validation: 
-accuracy: 52.273% 
----------------------------------------------
-
-cross validation: 
-accuracy: 58.291% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=9.000) 
-Execution Time: 4.612s 
-Training: 
-accuracy: 79.545% 
----------------------------------------------
-Validation: 
-accuracy: 56.818% 
----------------------------------------------
-
-cross validation: 
-accuracy: 58.291% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=10.000) 
-Execution Time: 4.620s 
-Training: 
-accuracy: 77.273% 
----------------------------------------------
-Validation: 
-accuracy: 63.636% 
----------------------------------------------
-
-cross validation: 
-accuracy: 57.493% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=10.000) 
-Execution Time: 4.611s 
-Training: 
-accuracy: 76.136% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 57.493% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=10.000) 
-Execution Time: 4.607s 
-Training: 
-accuracy: 80.682% 
----------------------------------------------
-Validation: 
-accuracy: 59.091% 
----------------------------------------------
-
-cross validation: 
-accuracy: 57.493% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=2.000) 
-Execution Time: 0.727s 
-Training: 
-accuracy: 59.091% 
----------------------------------------------
-Validation: 
-accuracy: 43.182% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.028% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=2.000) 
-Execution Time: 0.743s 
-Training: 
-accuracy: 55.682% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.028% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=2.000) 
-Execution Time: 0.705s 
-Training: 
-accuracy: 57.955% 
----------------------------------------------
-Validation: 
-accuracy: 47.727% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.028% 
----------------------------------------------
-
 SVM with polynomial kernel (degree=0.000) 
-Execution Time: 0.727s 
-Training: 
-accuracy: 50.000% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 49.259% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=0.000) 
-Execution Time: 0.745s 
-Training: 
-accuracy: 50.000% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 49.259% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=0.000) 
-Execution Time: 0.726s 
-Training: 
-accuracy: 50.000% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 49.259% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=1.000) 
-Execution Time: 0.736s 
-Training: 
-accuracy: 60.227% 
----------------------------------------------
-Validation: 
-accuracy: 43.182% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.798% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=1.000) 
-Execution Time: 0.735s 
-Training: 
-accuracy: 59.091% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.798% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=1.000) 
-Execution Time: 0.704s 
-Training: 
-accuracy: 56.818% 
----------------------------------------------
-Validation: 
-accuracy: 54.545% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.798% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=2.000) 
-Execution Time: 0.737s 
-Training: 
-accuracy: 59.091% 
----------------------------------------------
-Validation: 
-accuracy: 43.182% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.028% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=2.000) 
-Execution Time: 0.739s 
-Training: 
-accuracy: 55.682% 
----------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.028% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=2.000) 
-Execution Time: 0.702s 
-Training: 
-accuracy: 57.955% 
----------------------------------------------
-Validation: 
-accuracy: 47.727% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.028% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=3.000) 
-Execution Time: 0.735s 
-Training: 
-accuracy: 59.091% 
----------------------------------------------
-Validation: 
-accuracy: 45.455% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.028% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=3.000) 
-Execution Time: 0.732s 
-Training: 
-accuracy: 53.409% 
----------------------------------------------
-Validation: 
-accuracy: 47.727% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.028% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=3.000) 
-Execution Time: 0.699s 
-Training: 
-accuracy: 56.818% 
----------------------------------------------
-Validation: 
-accuracy: 47.727% 
----------------------------------------------
-
-cross validation: 
-accuracy: 50.028% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=4.000) 
-Execution Time: 0.793s 
-Training: 
-accuracy: 56.818% 
----------------------------------------------
-Validation: 
-accuracy: 45.455% 
----------------------------------------------
-
-cross validation: 
-accuracy: 49.288% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=4.000) 
-Execution Time: 0.751s 
-Training: 
-accuracy: 54.545% 
----------------------------------------------
-Validation: 
-accuracy: 45.455% 
----------------------------------------------
-
-cross validation: 
-accuracy: 49.288% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=4.000) 
-Execution Time: 0.772s 
-Training: 
-accuracy: 56.818% 
----------------------------------------------
-Validation: 
-accuracy: 47.727% 
----------------------------------------------
-
-cross validation: 
-accuracy: 49.288% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=5.000) 
 Execution Time: 0.742s 
 Training: 
-accuracy: 57.955% 
+accuracy: 50.000% 
 ---------------------------------------------
 Validation: 
 accuracy: 50.000% 
 ---------------------------------------------
 
 cross validation: 
-accuracy: 49.316% 
+accuracy: 49.259% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=5.000) 
-Execution Time: 0.755s 
+SVM with polynomial kernel (degree=0.000) 
+Execution Time: 0.732s 
+Training: 
+accuracy: 50.000% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 49.259% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=0.000) 
+Execution Time: 0.657s 
+Training: 
+accuracy: 50.000% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 49.259% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=1.000) 
+Execution Time: 0.729s 
+Training: 
+accuracy: 60.227% 
+---------------------------------------------
+Validation: 
+accuracy: 43.182% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 48.490% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=1.000) 
+Execution Time: 0.731s 
 Training: 
 accuracy: 53.409% 
 ---------------------------------------------
@@ -606,37 +60,115 @@ accuracy: 45.455%
 ---------------------------------------------
 
 cross validation: 
-accuracy: 49.316% 
+accuracy: 48.490% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=5.000) 
-Execution Time: 0.701s 
+SVM with polynomial kernel (degree=1.000) 
+Execution Time: 0.654s 
 Training: 
-accuracy: 57.955% 
+accuracy: 53.409% 
 ---------------------------------------------
 Validation: 
-accuracy: 50.000% 
+accuracy: 52.273% 
 ---------------------------------------------
 
 cross validation: 
-accuracy: 49.316% 
+accuracy: 48.490% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=6.000) 
-Execution Time: 0.734s 
+SVM with polynomial kernel (degree=2.000) 
+Execution Time: 0.726s 
 Training: 
-accuracy: 59.091% 
+accuracy: 61.364% 
+---------------------------------------------
+Validation: 
+accuracy: 40.909% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.798% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=2.000) 
+Execution Time: 0.761s 
+Training: 
+accuracy: 55.682% 
 ---------------------------------------------
 Validation: 
 accuracy: 45.455% 
 ---------------------------------------------
 
 cross validation: 
-accuracy: 52.308% 
+accuracy: 50.798% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=6.000) 
-Execution Time: 0.765s 
+SVM with polynomial kernel (degree=2.000) 
+Execution Time: 0.657s 
+Training: 
+accuracy: 48.864% 
+---------------------------------------------
+Validation: 
+accuracy: 54.545% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.798% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=3.000) 
+Execution Time: 0.736s 
+Training: 
+accuracy: 55.682% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=3.000) 
+Execution Time: 0.794s 
+Training: 
+accuracy: 55.682% 
+---------------------------------------------
+Validation: 
+accuracy: 38.636% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=3.000) 
+Execution Time: 0.664s 
+Training: 
+accuracy: 53.409% 
+---------------------------------------------
+Validation: 
+accuracy: 56.818% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=4.000) 
+Execution Time: 0.730s 
+Training: 
+accuracy: 54.545% 
+---------------------------------------------
+Validation: 
+accuracy: 54.545% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 45.413% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=4.000) 
+Execution Time: 0.733s 
 Training: 
 accuracy: 53.409% 
 ---------------------------------------------
@@ -645,136 +177,604 @@ accuracy: 47.727%
 ---------------------------------------------
 
 cross validation: 
-accuracy: 52.308% 
+accuracy: 45.413% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=4.000) 
+Execution Time: 0.659s 
+Training: 
+accuracy: 57.955% 
+---------------------------------------------
+Validation: 
+accuracy: 43.182% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 45.413% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=5.000) 
+Execution Time: 0.729s 
+Training: 
+accuracy: 50.000% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.182% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=5.000) 
+Execution Time: 0.743s 
+Training: 
+accuracy: 51.136% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.182% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=5.000) 
+Execution Time: 0.659s 
+Training: 
+accuracy: 57.955% 
+---------------------------------------------
+Validation: 
+accuracy: 45.455% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.182% 
 ---------------------------------------------
 
 SVM with polynomial kernel (degree=6.000) 
+Execution Time: 0.752s 
+Training: 
+accuracy: 51.136% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=6.000) 
+Execution Time: 0.735s 
+Training: 
+accuracy: 53.409% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=6.000) 
+Execution Time: 0.655s 
+Training: 
+accuracy: 54.545% 
+---------------------------------------------
+Validation: 
+accuracy: 45.455% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=7.000) 
+Execution Time: 0.730s 
+Training: 
+accuracy: 51.136% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=7.000) 
+Execution Time: 0.730s 
+Training: 
+accuracy: 51.136% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=7.000) 
+Execution Time: 0.656s 
+Training: 
+accuracy: 52.273% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=8.000) 
+Execution Time: 0.728s 
+Training: 
+accuracy: 52.273% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=8.000) 
+Execution Time: 0.725s 
+Training: 
+accuracy: 54.545% 
+---------------------------------------------
+Validation: 
+accuracy: 40.909% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=8.000) 
+Execution Time: 0.659s 
+Training: 
+accuracy: 52.273% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=9.000) 
+Execution Time: 0.729s 
+Training: 
+accuracy: 52.273% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=9.000) 
+Execution Time: 0.730s 
+Training: 
+accuracy: 53.409% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=9.000) 
+Execution Time: 0.654s 
+Training: 
+accuracy: 52.273% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=0.000) 
+Execution Time: 0.724s 
+Training: 
+accuracy: 50.000% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 49.259% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=0.000) 
+Execution Time: 0.731s 
+Training: 
+accuracy: 50.000% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 49.259% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=0.000) 
+Execution Time: 0.658s 
+Training: 
+accuracy: 50.000% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 49.259% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=1.000) 
 Execution Time: 0.704s 
 Training: 
-accuracy: 57.955% 
+accuracy: 62.500% 
 ---------------------------------------------
 Validation: 
-accuracy: 50.000% 
+accuracy: 45.455% 
 ---------------------------------------------
 
 cross validation: 
-accuracy: 52.308% 
+accuracy: 48.575% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=7.000) 
-Execution Time: 0.984s 
+SVM with polynomial kernel (degree=1.000) 
+Execution Time: 0.710s 
 Training: 
-accuracy: 57.955% 
+accuracy: 53.409% 
+---------------------------------------------
+Validation: 
+accuracy: 45.455% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 48.575% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=1.000) 
+Execution Time: 0.647s 
+Training: 
+accuracy: 55.682% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 48.575% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=2.000) 
+Execution Time: 0.738s 
+Training: 
+accuracy: 61.364% 
+---------------------------------------------
+Validation: 
+accuracy: 40.909% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.798% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=2.000) 
+Execution Time: 0.742s 
+Training: 
+accuracy: 55.682% 
+---------------------------------------------
+Validation: 
+accuracy: 45.455% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.798% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=2.000) 
+Execution Time: 0.666s 
+Training: 
+accuracy: 48.864% 
+---------------------------------------------
+Validation: 
+accuracy: 54.545% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 50.798% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=3.000) 
+Execution Time: 0.790s 
+Training: 
+accuracy: 55.682% 
 ---------------------------------------------
 Validation: 
 accuracy: 47.727% 
 ---------------------------------------------
 
 cross validation: 
-accuracy: 52.279% 
+accuracy: 46.952% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=7.000) 
-Execution Time: 0.849s 
+SVM with polynomial kernel (degree=3.000) 
+Execution Time: 0.744s 
+Training: 
+accuracy: 55.682% 
+---------------------------------------------
+Validation: 
+accuracy: 38.636% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=3.000) 
+Execution Time: 0.675s 
 Training: 
 accuracy: 53.409% 
 ---------------------------------------------
 Validation: 
-accuracy: 50.000% 
----------------------------------------------
-
-cross validation: 
-accuracy: 52.279% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=7.000) 
-Execution Time: 0.667s 
-Training: 
 accuracy: 56.818% 
 ---------------------------------------------
-Validation: 
-accuracy: 50.000% 
----------------------------------------------
 
 cross validation: 
-accuracy: 52.279% 
+accuracy: 46.952% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=8.000) 
+SVM with polynomial kernel (degree=4.000) 
 Execution Time: 0.739s 
 Training: 
-accuracy: 60.227% 
+accuracy: 54.545% 
 ---------------------------------------------
 Validation: 
-accuracy: 50.000% 
+accuracy: 54.545% 
 ---------------------------------------------
 
 cross validation: 
-accuracy: 53.789% 
+accuracy: 45.413% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=8.000) 
-Execution Time: 0.729s 
+SVM with polynomial kernel (degree=4.000) 
+Execution Time: 0.875s 
 Training: 
 accuracy: 53.409% 
 ---------------------------------------------
 Validation: 
-accuracy: 50.000% 
+accuracy: 47.727% 
 ---------------------------------------------
 
 cross validation: 
-accuracy: 53.789% 
+accuracy: 45.413% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=8.000) 
+SVM with polynomial kernel (degree=4.000) 
 Execution Time: 0.667s 
 Training: 
-accuracy: 56.818% 
+accuracy: 57.955% 
 ---------------------------------------------
 Validation: 
-accuracy: 52.273% 
+accuracy: 43.182% 
 ---------------------------------------------
 
 cross validation: 
-accuracy: 53.789% 
+accuracy: 45.413% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=9.000) 
-Execution Time: 0.729s 
+SVM with polynomial kernel (degree=5.000) 
+Execution Time: 0.739s 
 Training: 
-accuracy: 60.227% 
----------------------------------------------
-Validation: 
-accuracy: 52.273% 
----------------------------------------------
-
-cross validation: 
-accuracy: 51.538% 
----------------------------------------------
-
-SVM with polynomial kernel (degree=9.000) 
-Execution Time: 0.729s 
-Training: 
-accuracy: 53.409% 
----------------------------------------------
-Validation: 
 accuracy: 50.000% 
 ---------------------------------------------
-
-cross validation: 
-accuracy: 51.538% 
+Validation: 
+accuracy: 52.273% 
 ---------------------------------------------
 
-SVM with polynomial kernel (degree=9.000) 
+cross validation: 
+accuracy: 46.182% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=5.000) 
+Execution Time: 0.750s 
+Training: 
+accuracy: 51.136% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.182% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=5.000) 
 Execution Time: 0.673s 
 Training: 
 accuracy: 57.955% 
 ---------------------------------------------
 Validation: 
+accuracy: 45.455% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.182% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=6.000) 
+Execution Time: 0.788s 
+Training: 
+accuracy: 51.136% 
+---------------------------------------------
+Validation: 
+accuracy: 52.273% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=6.000) 
+Execution Time: 0.737s 
+Training: 
+accuracy: 53.409% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=6.000) 
+Execution Time: 0.665s 
+Training: 
+accuracy: 54.545% 
+---------------------------------------------
+Validation: 
+accuracy: 45.455% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=7.000) 
+Execution Time: 0.764s 
+Training: 
+accuracy: 51.136% 
+---------------------------------------------
+Validation: 
 accuracy: 50.000% 
 ---------------------------------------------
 
 cross validation: 
-accuracy: 51.538% 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=7.000) 
+Execution Time: 0.751s 
+Training: 
+accuracy: 51.136% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=7.000) 
+Execution Time: 0.662s 
+Training: 
+accuracy: 52.273% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 46.952% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=8.000) 
+Execution Time: 0.736s 
+Training: 
+accuracy: 52.273% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=8.000) 
+Execution Time: 0.759s 
+Training: 
+accuracy: 54.545% 
+---------------------------------------------
+Validation: 
+accuracy: 40.909% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=8.000) 
+Execution Time: 0.663s 
+Training: 
+accuracy: 52.273% 
+---------------------------------------------
+Validation: 
+accuracy: 47.727% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=9.000) 
+Execution Time: 0.738s 
+Training: 
+accuracy: 52.273% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=9.000) 
+Execution Time: 0.963s 
+Training: 
+accuracy: 53.409% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
+---------------------------------------------
+
+SVM with polynomial kernel (degree=9.000) 
+Execution Time: 0.981s 
+Training: 
+accuracy: 52.273% 
+---------------------------------------------
+Validation: 
+accuracy: 50.000% 
+---------------------------------------------
+
+cross validation: 
+accuracy: 47.721% 
 ---------------------------------------------
 
